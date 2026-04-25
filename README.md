@@ -32,7 +32,7 @@
 
 - 🛠️ Tools & Concepts:  
   `Git & GitHub` | `Data Structures` | `Algorithms` | `DBMS (MySQL)`
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HunterXGo&show_icons=true&theme=radical)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HunterXGo&show_icons=true&theme=tokyonight)
 
 ---
 
