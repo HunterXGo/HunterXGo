@@ -1,3 +1,6 @@
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/96110d8c-d7ac-4e2e-a2e7-57f6ae0deb76" />
+
+
 # 👋 Hey, I'm Goldy
 
 💡 A curious mind exploring the world of **Artificial Intelligence, Data Science, and System Design**
