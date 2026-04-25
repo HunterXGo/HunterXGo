@@ -25,7 +25,7 @@
 ## 🧩 Skills & Tools
 
 - 💻 Languages:  
-  `Python` | `Java` | `C` |
+  `Python` | `Java` | `C`
 
 - 🌐 Web:  
   `HTML` | `CSS` | `JS`
