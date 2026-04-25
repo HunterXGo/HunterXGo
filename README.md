@@ -7,7 +7,7 @@
 ## 🧠 About Me
 
 - 🎓 Student with a passion for building and understanding systems from the ground up  
-- ⚙️ Currently exploring **AI, Web Development, and Core Computer Science concepts**  
+- ⚙️ Currently exploring **AI, Data Science, and Core Computer Science concepts**  
 - 🧪 I love turning ideas into real-world projects  
 - 🛠️ Dream: Build my own **Operating System**  
 
@@ -17,7 +17,7 @@
 
 - 🌐 Web applications using **HTML, CSS, JavaScript**
 - 🤖 Exploring fundamentals of **Artificial Intelligence**
-- 🔊 Projects like **audio compression tools** and **smart applications**
+- 🔊 Projects like **Chatbot** and **smart applications**
 - 📚 Preparing for **GATE** with strong focus on core subjects  
 
 ---
@@ -25,7 +25,7 @@
 ## 🧩 Skills & Tools
 
 - 💻 Languages:  
-  `Python` | `Java` | `C` | `JavaScript`
+  `Python` | `Java` | `C` |
 
 - 🌐 Web:  
   `HTML` | `CSS` | `JS`
@@ -39,8 +39,7 @@
 
 - 🥗 Nutrition Checker Web App  
 - 💡 Automatic Street Light System (IoT Project)  
-- 🔊 Audio Compression Tool (In Progress)  
-
+- VibeScape:The Popular Spot Finder
 ---
 
 ## 📈 Learning Journey
