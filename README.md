@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Goldy
 
-💡 A curious mind exploring the world of **Artificial Intelligence, Data Science, and System Design**
+💡 A curious mind exploring the world of **Artificial Intelligence, Data Science**
 
 ---
 
